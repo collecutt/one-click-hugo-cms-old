@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://tournovo.com"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
