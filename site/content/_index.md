@@ -9,6 +9,7 @@ blurb:
     image: /img/pano_20141221_164855396.jpg
 intro:
   heading: What we offer - Sasha please write something here/  site-conmtent.index.md
+  - image: img/pano_20141221_164855396.jpg
   text: >-
     Sasha please write something here/  site-conmtent.index.md
 products:
@@ -19,7 +20,10 @@ products:
       of coffee beans grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
-
+Topic 1:
+  - image: img/pano_20141221_164855396.jpg
+    text: >-
+      Another topic??
 
 
 ---
