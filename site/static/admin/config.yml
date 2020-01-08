@@ -29,7 +29,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Intro", name: intro, widget: object, fields: [
-              {label: "Youtube", name: "youtube", widget: youtube, extraInfo: false, required = false, APIkey: "AIzaSyCcfaA5Z_fEH9qZ_aocXaIQMgMg_EiMhkQ"},
+              {label: "Image", name: "image", widget: "image"},
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Products", name: products, widget: list, fields: [
