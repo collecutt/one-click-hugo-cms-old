@@ -17,6 +17,5 @@ CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.init();
-npm install --save netlify-cms-widget-youtube
 import youtube from "netlify-cms-widget-youtube";
 CMS.registerWidget("youtube", youtubeControl, youtubePreview);
