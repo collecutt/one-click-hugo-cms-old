@@ -3,39 +3,25 @@ title: Tournovo
 subtitle: Your Authentic Bulgarian Adventure Experience
 image: /img/pano_20141221_164855396.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Tournovo - Sasha please write something here/  site-conmtent.index.md?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Sasha please write something here/  site-conmtent.index.md
 intro:
-  heading: What we offer
+  heading: What we offer - Sasha please write something here/  site-conmtent.index.md
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Sasha please write something here/  site-conmtent.index.md
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/pano_20141221_164855396.jpg”
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
+   Add image here - site/static/img/
+   Sasha please write something here/  site-conmtent.index.md
+
+  - image: img/pano_20141221_164855396.jpg”
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+     Sasha please write something here/  site-conmtent.index.md
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Sasha please write something here/  site-conmtent.index.md
 ---
 
