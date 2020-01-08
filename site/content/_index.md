@@ -12,7 +12,7 @@ intro:
   text: >-
     Sasha please write something here/  site-conmtent.index.md
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/pano_20141221_164855396.jpg
     text: >-
       We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
