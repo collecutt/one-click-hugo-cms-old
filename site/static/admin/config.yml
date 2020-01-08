@@ -1,3 +1,7 @@
+npm install --save netlify-cms-widget-youtube
+import youtube from "netlify-cms-widget-youtube";
+CMS.registerWidget("youtube", youtubeControl, youtubePreview);
+
 backend:
   name: git-gateway
 
