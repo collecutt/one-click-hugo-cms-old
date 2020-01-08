@@ -11,7 +11,7 @@ intro:
   text: >-
     Sasha please write something here/  site-conmtent.index.md
 products:
-  - image: img/pano_20141221_164855396.jpg”
+image: img/pano_20141221_164855396.jpg
     text: >-
    Add image here - site/static/img/
    Sasha please write something here/  site-conmtent.index.md
