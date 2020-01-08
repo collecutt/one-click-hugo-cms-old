@@ -3,23 +3,17 @@ title: Tournovo
 subtitle: Your Authentic Bulgarian Adventure Experience
 image: /img/pano_20141221_164855396.jpg
 blurb:
-  heading: Why Tournovo - Sasha please write something here/  site-conmtent.index.md?
-  text: >-
-    Sasha please write something here/  site-conmtent.index.md
-    image: /img/pano_20141221_164855396.jpg
+  heading: Why Tournovo?
+  text: Some information that goes here!
 intro:
   heading: What we offer
-  text: >-
-    Sasha please write something here/  site-conmtent.index.md
+  image: /img/pano_20141221_164855396.jpg
+  text: Something to go here
 products:
   - image: img/pano_20141221_164855396.jpg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-
-
-
+    text: Some other text that goes here
+values:
+  heading: A heading
+  text: And some more information about it
 ---
+
