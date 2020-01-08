@@ -1,11 +1,9 @@
-<script src="https://unpkg.com/netlify-cms-widget-youtube@^0.3.0"></script>
- 
-<script>
-  CMS.registerWidget('youtube', youtubeControl, youtubePreview)
-</script> 
 
+  <script src="https://unpkg.com/netlify-cms-widget-youtube@^0.3.0"></script>
+  <script> CMS.registerWidget('youtube', youtubeControl, youtubePreview) </script>
+--- 
 backend:
-name: git-gateway
+  - name: git-gateway
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
@@ -87,4 +85,5 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
+
      
