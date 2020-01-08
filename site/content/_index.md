@@ -8,7 +8,7 @@ blurb:
     Sasha please write something here/  site-conmtent.index.md
     image: /img/pano_20141221_164855396.jpg
 intro:
-  heading: What we offer - Sasha please write something here/  site-conmtent.index.md
+  heading: What we offer
   - image: img/pano_20141221_164855396.jpg
   text: >-
     Sasha please write something here/  site-conmtent.index.md
