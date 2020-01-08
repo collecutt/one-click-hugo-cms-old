@@ -1,7 +1,4 @@
 
-  <script src="https://unpkg.com/netlify-cms-widget-youtube@^0.3.0"></script>
-  <script> CMS.registerWidget('youtube', youtubeControl, youtubePreview) </script>
---- 
 backend:
   - name: git-gateway
 
