@@ -43,7 +43,6 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
-          - {label: "Image", name: "image", widget: "image", required: false}
           - {label: Body, name: body, widget: markdown}
           - label: Contact Entries
             name: contact_entries
@@ -79,8 +78,6 @@ collections: # A list of collections the CMS should be able to edit
             widget: list
             fields:
               - {label: Heading, name: heading, widget: string}
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
      
