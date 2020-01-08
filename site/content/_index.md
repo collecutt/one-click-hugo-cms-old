@@ -6,6 +6,10 @@ blurb:
   heading: Why Tournovo - Sasha please write something here/  site-conmtent.index.md?
   text: >-
     Sasha please write something here/  site-conmtent.index.md
+intro:
+  heading: What we offer - Sasha please write something here/  site-conmtent.index.md
+  text: >-
+    Sasha please write something here/  site-conmtent.index.md
 
 ---
 
