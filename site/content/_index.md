@@ -10,11 +10,10 @@ intro:
   heading: What we offer - Sasha please write something here/  site-conmtent.index.md
   text: >-
     Sasha please write something here/  site-conmtent.index.md
-products:
-    heading: Why I am amazing
-    text: >-
-   Add image here - site/static/img/
-   Sasha please write something here/  site-conmtent.index.md
+intro:
+  heading: What we offer - Sasha please write something here/  site-conmtent.index.md
+  text: >-
+    Sasha please write something here/  site-conmtent.index.md
 
 
 ---
