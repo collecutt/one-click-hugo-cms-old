@@ -9,13 +9,30 @@ import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/products";
 import ValuesPreview from "./cms-preview-templates/values";
 import ContactPreview from "./cms-preview-templates/contact";
-import youtube from "netlify-cms-widget-youtube-extended";
  
-CMS.registerWidget("youtube", youtubeControl, youtubePreview);
 CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
+CMS.registerEditorComponent({
+      id: "youtube",
+      label: "Youtube",
+      fields: [{name: 'id', label: 'Youtube Video ID'}],
+      pattern: /^{{<\s?youtube (\S+)\s?>}}/,
+      fromBlock: function(match) {
+        return {
+          id: match[1]
+        };
+      },
+      toBlock: function(obj) {
+        return '{{< youtube ' + obj.id + ' >}}';
+      },
+      toPreview: function(obj) {
+        return (
+          '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+        );
+      }
+    });
 CMS.init();
