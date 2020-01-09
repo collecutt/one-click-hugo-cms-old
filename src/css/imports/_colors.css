@@ -5,7 +5,7 @@
 }
 
 .highlight {
-  color: var(--highlight);
+  color: #380036;
 }
 
 .white {
@@ -13,11 +13,11 @@
 }
 
 .off-white {
-  color: var(--off-white);
+  color: #fffffa;
 }
 
 .grey-1 {
-  color: var(--grey-1);
+  color: #515052;
 }
 
 .grey-2 {
@@ -33,15 +33,15 @@
 }
 
 .black {
-  color: var(--black);
+  color: #040303;
 }
 
 .bg-primary {
-  background-color: var(--primary);
+  background-color: #009900;
 }
 
 .bg-highlight {
-  background-color: var(--highlight);
+  background-color: #380036;
 }
 
 .bg-white {
@@ -49,11 +49,11 @@
 }
 
 .bg-off-white {
-  background-color: var(--off-white);
+  background-color: #fffffa;
 }
 
 .bg-grey-1 {
-  background-color: var(--grey-1);
+  background-color: #515052;
 }
 
 .bg-grey-2 {
@@ -69,7 +69,7 @@
 }
 
 .bg-black {
-  background-color: var(--black);
+  background-color: #040303;
 }
 
 .bg-fix-primary {
