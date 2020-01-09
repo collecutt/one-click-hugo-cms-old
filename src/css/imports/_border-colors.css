@@ -1,9 +1,9 @@
 .b--primary {
-  border-color: var(--primary);
+  border-color: #009900;
 }
 
 .b--highlight {
-  border-color: --var(--highlight);
+  border-color: #380036;
 }
 
 .b--white {
@@ -11,11 +11,11 @@
 }
 
 .b--off-white {
-  border-color: var(--off-white);
+  border-color: #fffffa;
 }
 
 .b--grey-1 {
-  border-color: var(--grey-1);
+  border-color: #515052;
 }
 
 .b--grey-2 {
@@ -31,5 +31,5 @@
 }
 
 .b--black {
-  border-color: var(--black);
+  border-color: #040303;
 }
