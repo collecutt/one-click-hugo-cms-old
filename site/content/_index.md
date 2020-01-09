@@ -14,6 +14,10 @@ products:
     text: Some other text that goes here
 values:
   heading: A heading
-  text: And some more information about it
+  text: >-
+    <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/q0bIRjj2xAQ" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture" allowfullscreen></iframe>
 ---
 
